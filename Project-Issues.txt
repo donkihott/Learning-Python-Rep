@@ -1,10 +1,13 @@
--  GitHub - Create a issue in the Project
-- VS Code (расширение GitHub Pull Requests)
-choose issue
-Start Working on Issue ( -> )
-- Merge - Descripton
-closes #
+1. GitHub - Create a issue in the Project
+- Assignee!
 
+2. VS Code (расширение GitHub Pull Requests)
+- Start Working on Issue ( -> )
+- Merge:
+    Descripton: closes # - by default
+- Checkout main
+
+3. Delete branch
 
 
 fixes #
