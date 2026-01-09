@@ -1,0 +1,10 @@
+-  GitHub - Create a issue in the Project
+- VS Code (расширение GitHub Pull Requests)
+choose issue
+Start Working on Issue ( -> )
+- Merge - Descripton
+closes #
+
+
+fixes #
+resolves #
