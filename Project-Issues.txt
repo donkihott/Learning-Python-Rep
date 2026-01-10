@@ -3,9 +3,16 @@
 
 2. VS Code (расширение GitHub Pull Requests)
 - Start Working on Issue ( -> )
+- Changes
+- Commit
+- Publish brznch
+main
+
+3. GitHub:
+- Compare & Pull Request
+- Create Merge Commit
 - Merge:
     Descripton: closes # - by default
-- Checkout main
 
 3. Delete branch
 
