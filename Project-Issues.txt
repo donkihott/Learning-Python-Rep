@@ -1,3 +1,10 @@
+Git Graph
+GitHub Pull Requests
+
+Jupyter
+GitHub Copilot Chat
+vscode-pdf
+
 1. GitHub - Create a issue in the Project
 - Assignee!
 
