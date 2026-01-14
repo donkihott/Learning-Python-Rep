@@ -69,35 +69,3 @@ for el in S:
 # Dolgoprudny
 # Odessa
 # Moscow
-
-####################### dict (ключ + значение)
-D = {'Moscow' : 78621,
-     'Dolgoprudny' : 6283,
-     'Piter' : 82851}
-D['Rostov'] = 762
-
-for key in D:
-    print(key, D[key]) # :
-# Moscow 78621
-# Dolgoprudny 6283
-# Piter 82851
-# Rostov 762
-
-for key in D:
-    print(key, sep= ',', end=',\n') # :
-
-Plot = {}
-
-Plot["ч. 1 ст. 51"] = "__ 2020 року о 00:00 годині, в м. Чорноморську Одеської області шляхом вчинив"
-
-Plot['ст. 173'] = 'Фабула ст. 173'
-
-Plot['ч. 1 ст. 173-2'] = "Фабула ч. 1  ст. 173-2"
-Plot['ст. 48'] = 'Fabula ct 48'
-
-
-for key in Plot:
-    print(key)
-A = list(key)
-print(A)
-
