@@ -1,30 +1,3 @@
-# - 'tuple' - Кортежи даних
-
-x = 1
-y = 2
-
-y, x = 1, 2
-
-x, y = y, x
-
-T = 1, 2, 3, 4
-print(type(T)) # <class 'tuple'>
-print(T)
-a, b, c, d = T
-print(c) # 3
-
-a = T[0]
-print(a) # 1
-
-a, b, * rest = T
-print(a) # 1
-print(b) # 2
-print(rest) # [3, 4]
-
-print(T) # (1, 2, 3, 4)
-print(*T) # 1 2 3 4
-print(*T, sep= ':') # 1:2:3:4
-print(*T, sep= ':', end='!\n') # 1:2:3:4!  # \n - new line
 
 def hello_n(name:str, n:int):
     for i in range(n):
